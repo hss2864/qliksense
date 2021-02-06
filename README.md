@@ -116,10 +116,10 @@ BI 업계에서 Qlik으로 데이터 분석 시스템 개발을 주로 하였고
 
 
 ### 실습 데이터
- [data](https://github.com/hss2864/qliksense/tree/main/data) 폴더에서 아래 파일을 다운로드
-* Sales.xlsx
-* Country.xlsx
-* Item.xlsx
-* QlikSense_Book_App.qvf
+ [data](https://github.com/hss2864/qliksense/tree/main/data) 폴더에서 다운로드하거나 아래 파일을 클릭하여 다운로드 합니다.
+* [Sales.xlsx](https://github.com/hss2864/qliksense/raw/main/data/Sales.xlsx)
+* [Country.xlsx](https://github.com/hss2864/qliksense/raw/main/data/Country.xlsx)
+* [Item.xlsx](https://github.com/hss2864/qliksense/raw/main/data/Item.xlsx)
+* [QlikSense_Book_App.qvf](https://github.com/hss2864/qliksense/raw/main/data/QlikSense_Book_App.qvf)
 
 > ###### _※ QlikSense_Book_App.qvf는 실습을 완료한 결과 파일입니다._
