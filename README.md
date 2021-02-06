@@ -1,4 +1,4 @@
-# 클릭센스(QlikSense)로 빅데이터 시각화 끝내기
+# 클릭센스(QlikSense)로 빅데이터 시각화 끝내기<br>Bigdata Analysis & Visualization using QlikSense
 <br>
 
 ## 구매하기
