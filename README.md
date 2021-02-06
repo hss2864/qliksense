@@ -116,7 +116,7 @@ BI 업계에서 Qlik으로 데이터 분석 시스템 개발을 주로 하였고
 
 
 ### 실습 데이터
- [Data](https://github.com/hss2864/qliksense/tree/main/data) 폴더에서 아래 파일을 다운로드
+ [data](https://github.com/hss2864/qliksense/tree/main/data) 폴더에서 아래 파일을 다운로드
 * Sales.xlsx
 * Country.xlsx
 * Item.xlsx
