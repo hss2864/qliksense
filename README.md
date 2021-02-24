@@ -2,7 +2,8 @@
 <br>
 
 ## 구매하기
-**부크크**: <https://www.bookk.co.kr/book/view/103364>
+**부크크** : <https://www.bookk.co.kr/book/view/103364> <br>
+**YES24** : <http://www.yes24.com/Product/Goods/97584266>
 <br><br>
 
 ## 도서 정보
