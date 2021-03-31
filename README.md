@@ -5,7 +5,8 @@
 **부크크** : <https://www.bookk.co.kr/book/view/103364> <br>
 **YES24** : <http://www.yes24.com/Product/Goods/97584266> <br>
 **도서11번가** : <http://www.11st.co.kr/products/3331004290/share> <br>
-**알라딘** : <https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=266740784>
+**알라딘** : <https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=266740784> <br>
+**교보문고** : <http://www.yes24.com/Product/Goods/97584266>
 <br><br>
 
 ## 도서 정보
