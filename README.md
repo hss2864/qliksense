@@ -131,3 +131,13 @@ BI 업계에서 Qlik으로 데이터 분석 시스템 개발을 주로 하였고
 * [QlikSense_Book_App.qvf](https://github.com/hss2864/qliksense/raw/main/data/QlikSense_Book_App.qvf)
 
 > ###### _※ QlikSense_Book_App.qvf는 실습을 완료한 결과 파일입니다._
+
+
+---
+
+
+### 관련 추천 도서
+**GitHub** : [클릭센스(QlikSense)로 빅데이터 시각화 끝내기 <모델링편>](https://github.com/hss2864/qliksense_modeling) <br>
+**부크크** : <https://www.bookk.co.kr/book/view/136264> <br>
+
+클릭 스크립트(Script) 기반의 데이터 가공 방법 및 모델링 과정을 다룬 내용으로, 데이터 분석가뿐만 아니라 엔지니어의 능력을 키울 수 있는 도서입니다.
